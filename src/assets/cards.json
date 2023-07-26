@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "img": "https://i.imgur.com/WfRgMv5.png",
+    "title": "Maximum chance of victory!",
+    "subtitle": "This is the best scenario",
+    "description": "Whenever Far-left and far-right parties get low scores, right-wing parties get low enough scores and greens, centrists and center-left parties have a higher share of the vote, we have the strongest chances."
+  },
+  {
+    "id": 1,
+    "img": "https://i.imgur.com/ZZx5ta0.png",
+    "title": "High chance of success",
+    "subtitle": "Still a favorable scenario",
+    "description": "When the far-right and right-wing parties gain a bit more votes, but the centrists and center-left parties still dominate, our chances are still high."
+  },
+  {
+    "id": 2,
+    "img": "https://i.imgur.com/NjqaGKk.png",
+    "title": "Good chance of winning",
+    "subtitle": "A balanced scenario",
+    "description": "If the votes are evenly distributed among all parties, we still have a good chance of winning."
+  },
+  {
+    "id": 3,
+    "img": "https://i.imgur.com/NjqaGKk.png",
+    "title": "Moderate chance of success",
+    "subtitle": "A challenging scenario",
+    "description": "When right-wing parties gain more votes, the situation becomes challenging, but we still have a moderate chance of success."
+  },
+  {
+    "id": 4,
+    "img": "https://i.imgur.com/NjqaGKk.png",
+    "title": "Average chance of victory",
+    "subtitle": "A tough scenario",
+    "description": "If the far-right parties gain significant votes, our chances of victory become average."
+  },
+  {
+    "id": 5,
+    "img": "https://i.imgur.com/Ka5ty4U.png",
+    "title": "Below average chance of success",
+    "subtitle": "A difficult scenario",
+    "description": "When far-right and right-wing parties dominate the vote, our chances of success fall below average."
+  },
+  {
+    "id": 6,
+    "img": "https://i.imgur.com/1IndgTJ.png",
+    "title": "Low chance of victory",
+    "subtitle": "A very difficult scenario",
+    "description": "If the far-right parties significantly dominate the vote, our chances of victory are low."
+  },
+  {
+    "id": 7,
+    "img": "https://i.imgur.com/1IndgTJ.png",
+    "title": "Very low chance of success",
+    "subtitle": "A nearly impossible scenario",
+    "description": "When far-right parties overwhelmingly dominate the vote, our chances of success are very low."
+  },
+  {
+    "id": 8,
+    "img": "https://i.imgur.com/ujhrfzC.png",
+    "title": "Minimal chance of victory",
+    "subtitle": "An almost hopeless scenario",
+    "description": "If the far-right parties have an absolute majority, our chances of victory are minimal."
+  },
+  {
+    "id": 9,
+    "img": "https://i.imgur.com/ujhrfzC.png",
+    "title": "No chance of success",
+    "subtitle": "A hopeless scenario",
+    "description": "When far-right parties have all the votes, there is no chance of success."
+  }
+]

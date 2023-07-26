@@ -1,6 +1,27 @@
 <template>
   <q-layout view="lHh Lpr lFf" id="vanta-bg-canvas">
-    <MainHeader></MainHeader>
+    <q-header elevated>
+      <q-toolbar>
+        <q-btn
+          flat
+          dense
+          round
+          icon="menu"
+          aria-label="Menu"
+          @click="toggleLeftDrawer"
+        />
+        <q-avatar>
+          <img src="../assets/volt-stats-logo/volt-stats.svg" />
+        </q-avatar>
+        <q-toolbar-title> Volt Data FR </q-toolbar-title>
+        <q-tabs no-caps bg-indigo text-white>
+          <q-route-tab to="/table" label="Table" icon="rocket" />
+          <q-route-tab to="/map" label="Map" icon="map" />
+          <q-route-tab to="/downloads" label="Downloads" icon="download" />
+        </q-tabs>
+      </q-toolbar>
+    </q-header>
+
     <q-drawer v-model="leftDrawerOpen" show-if-above bordered>
       <q-list>
         <q-item-label header> Essential Links </q-item-label>
@@ -13,37 +34,19 @@
       </q-list>
     </q-drawer>
     <q-page-container>
-      <PlotlyMap chunkNumber="{{ mapNumber }}" />
+      <CardsList></CardsList>
     </q-page-container>
     <q-page-container>
       <router-view />
     </q-page-container>
   </q-layout>
 </template>
-<!-- <script lang="ts">
-// VANTA.NET({
-//   el: '#vanta-bg-canvas',
-//   mouseControls: true,
-//   touchControls: true,
-//   gyroControls: false,
-//   minHeight: 500.0,
-//   minWidth: 200.0,
-//   scale: 1.0,
-//   scaleMobile: 1.0,
-// });
-</script> -->
 <script setup lang="ts">
 import { ref } from 'vue';
 import EssentialLink, {
   EssentialLinkProps,
 } from 'components/EssentialLink.vue';
-
-var props = defineProps(['chunkNumber']);
-
-import MainHeader from 'components/MainHeader.vue';
-import PlotlyMap from 'components/PlotlyMap.vue';
-
-const mapNumber = ref(props.chunkNumber);
+import CardsList from 'src/components/CardsList.vue';
 
 const essentialLinks: EssentialLinkProps[] = [
   {
@@ -89,4 +92,17 @@ const essentialLinks: EssentialLinkProps[] = [
     link: 'https://awesome.quasar.dev',
   },
 ];
+</script>
+
+<script lang="ts">
+VANTA.NET({
+  el: '#vanta-bg-canvas',
+  mouseControls: true,
+  touchControls: true,
+  gyroControls: false,
+  minHeight: 2500,
+  minWidth: 200.0,
+  scale: 1.5,
+  scaleMobile: 1.0,
+});
 </script>

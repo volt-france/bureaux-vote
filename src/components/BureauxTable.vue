@@ -1,5 +1,5 @@
 <template>
-  <div class="q-pa-md">
+  <div class="q-pa-md fullpage-table">
     <q-table
       flat
       bordered
@@ -42,10 +42,11 @@
 </template>
 
 <script lang="ts">
-import BureauxData from '../assets/bureaux.json';
 import { ref, onMounted } from 'vue';
 
-const columns = [
+import BureauxData from '../assets/plot.scoring.metadata.table.json';
+
+const columnsBase = [
   {
     name: 'num_dept',
     label: 'Departement Number',
@@ -101,19 +102,33 @@ const columns = [
     sortable: true,
   },
   {
-    name: 'base_value',
-    label: 'Base Value',
-    field: 'base_value',
-    sortable: true,
-  },
-  {
     name: 'prob_volt',
     field: 'prob_volt',
     label: 'Volt Compatibility Score',
     sortable: true,
     sort: (a: string, b: string) => parseFloat(a) - parseFloat(b),
   },
+  {
+    name: 'base_value',
+    label: 'Base Value',
+    field: 'base_value',
+    sortable: true,
+  },
+  {
+    name: 'share_houses_total_housing_2020',
+    label: 'Part des maisons dans le total des logements',
+    field: 'share_houses_total_housing_2020',
+    sortable: true,
+  },
+  {
+    name: 'registered_voters_main_list_2022',
+    label: 'Électeurs inscrits sur liste principale 2022',
+    field: 'registered_voters_main_list_2022',
+    sortable: true,
+  },
 ];
+
+const columns = columnsBase;
 
 const originalRows = BureauxData;
 
@@ -127,7 +142,7 @@ export default {
       sortBy: 'desc',
       descending: false,
       page: 1,
-      rowsPerPage: 10,
+      rowsPerPage: 20,
       rowsNumber: 10,
     });
 

@@ -6,7 +6,8 @@ node_modules
 .quasar
 /dist
 /quasar.config.*.temporary.compiled*
-
+/src/assets/plot.scores.bureaux.map.*
+/src/assets/plot.scoring.metadata.*
 # Cordova related directories and files
 /src-cordova/node_modules
 /src-cordova/platforms
