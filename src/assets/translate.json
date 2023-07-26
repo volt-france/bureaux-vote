@@ -1,0 +1,19 @@
+{
+    "Code": "code",
+    "Libellé": "label",
+    "Part des maisons dans le total des logements 2020": "share_houses_total_housing_2020",
+    "Population municipale 2020": "municipal_population_2020",
+    "Électeurs inscrits sur liste principale 2022": "registered_voters_main_list_2022",
+    "Évol. annuelle moy. de la population 2014 - 2020 (en %) 2020": "average_annual_population_growth_2014_2020_percentage_2020",
+    "Part des non ou peu diplômés dans la pop. non scolarisée de 15 ans ou + 2020": "share_low_or_no_education_in_non_student_population_15_years_or_older_2020",
+    "Part des pers., dont le diplôme le plus élevé est le bepc ou le brevet, dans la pop. non scolarisée de 15 ans ou + 2020": "share_individuals_highest_degree_bepc_or_diploma_in_non_student_population_15_years_or_older_2020",
+    "Part des pers., dont le diplôme le plus élevé est un CAP ou un BEP, dans la pop. non scolarisée de 15 ans ou + 2020": "share_individuals_highest_degree_cap_or_bep_in_non_student_population_15_years_or_older_2020",
+    "Part des pers., dont le diplôme le plus élevé est le bac, dans la pop. non scolarisée de 15 ans ou + 2020": "share_individuals_highest_degree_baccalaureate_in_non_student_population_15_years_or_older_2020",
+    "Part des diplômés d'un BAC+2 dans la pop. non scolarisée de 15 ans ou + 2020": "share_bac_plus_2_graduates_in_non_student_population_15_years_or_older_2020",
+    "Part des diplômés d'un BAC+3  ou BAC+4 dans la pop. non scolarisée de 15 ans ou + 2020": "share_bac_plus_3_or_4_graduates_in_non_student_population_15_years_or_older_2020",
+    "Part des diplômés d'un BAC+5 ou plus dans la pop. non scolarisée de 15 ans ou + 2020": "share_bac_plus_5_or_more_graduates_in_non_student_population_15_years_or_older_2020",
+    "Part des actifs occ 15 ans ou plus vélo pour travailler 2020": "share_active_workers_15_years_or_older_cycling_to_work_2020",
+    "Part des actifs occ 15 ans ou plus voiture pour travailler 2020": "share_active_workers_15_years_or_older_driving_to_work_2020",
+    "Part des actifs occupés de 15 ans ou plus  les transports en commun 2020": "share_active_workers_15_years_or_older_using_public_transportation_2020",
+    "Part des appartements dans le total des logements 2020": "share_apartments_total_housing_2020"
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "url": "https://github.com/arnos-stuff/bureaux-vote-postgis/releases/download/v0.0.3/plot.scores.bureaux.map.part.0.json.zip",
+    "format": "geojson",
+    "type": "data",
+    "description": "This is the first part of a series of geojson files containing data for plotting scores of voting bureaus on a map.",
+    "name": "Plot Scores of Voting Bureaus - Part 0",
+    "id": 1
+  },
+  {
+    "url": "https://github.com/arnos-stuff/bureaux-vote-postgis/releases/download/v0.0.3/plot.scores.bureaux.map.part.1.json.zip",
+    "format": "geojson",
+    "type": "data",
+    "description": "This is the second part of a series of geojson files containing data for plotting scores of voting bureaus on a map.",
+    "name": "Plot Scores of Voting Bureaus - Part 1",
+    "id": 2
+  },
+  {
+    "url": "https://github.com/arnos-stuff/bureaux-vote-postgis/releases/download/v0.0.3/plot.scores.bureaux.map.part.1.json.zip",
+    "format": "geojson",
+    "type": "data",
+    "description": "This is the second part of a series of geojson files containing data for plotting scores of voting bureaus on a map.",
+    "name": "Plot Scores of Voting Bureaus - Part 2",
+    "id": 3
+  },
+  {
+    "url": "https://github.com/arnos-stuff/bureaux-vote-postgis/releases/download/v0.0.3/plot.scores.bureaux.map.part.1.json.zip",
+    "format": "geojson",
+    "type": "data",
+    "description": "This is the second part of a series of geojson files containing data for plotting scores of voting bureaus on a map.",
+    "name": "Plot Scores of Voting Bureaus - Part 3",
+    "id": 4
+  },
+  {
+    "url": "https://github.com/arnos-stuff/bureaux-vote-postgis/releases/download/v0.0.3/plot.scores.bureaux.map.part.1.json.zip",
+    "format": "geojson",
+    "type": "data",
+    "description": "This is the second part of a series of geojson files containing data for plotting scores of voting bureaus on a map.",
+    "name": "Plot Scores of Voting Bureaus - Part 4",
+    "id": 5
+  },
+  {
+    "url": "https://github.com/arnos-stuff/bureaux-vote-postgis/releases/download/v0.0.3/plot.scores.bureaux.map.part.1.json.zip",
+    "format": "geojson",
+    "type": "data",
+    "description": "This is the second part of a series of geojson files containing data for plotting scores of voting bureaus on a map.",
+    "name": "Plot Scores of Voting Bureaus - Part 5",
+    "id": 6
+  },
+  {
+    "url": "https://github.com/arnos-stuff/bureaux-vote-postgis/releases/download/v0.0.3/plot.scores.bureaux.map.part.1.json.zip",
+    "format": "geojson",
+    "type": "data",
+    "description": "This is the second part of a series of geojson files containing data for plotting scores of voting bureaus on a map.",
+    "name": "Plot Scores of Voting Bureaus - Part 6",
+    "id": 7
+  },
+  {
+    "url": "https://github.com/arnos-stuff/bureaux-vote-postgis/releases/download/v0.0.3/plot.scores.bureaux.map.part.1.json.zip",
+    "format": "geojson",
+    "type": "data",
+    "description": "This is the second part of a series of geojson files containing data for plotting scores of voting bureaus on a map.",
+    "name": "Plot Scores of Voting Bureaus - Part 7",
+    "id": 8
+  },
+  {
+    "url": "https://github.com/arnos-stuff/bureaux-vote-postgis/releases/download/v0.0.3/plot.scores.bureaux.map.part.1.json.zip",
+    "format": "geojson",
+    "type": "data",
+    "description": "This is the second part of a series of geojson files containing data for plotting scores of voting bureaus on a map.",
+    "name": "Plot Scores of Voting Bureaus - Part 8",
+    "id": 9
+  },
+  {
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/plot.scores.bureaux.page.part.0.html",
+    "format": "html",
+    "type": "map",
+    "description": "This is the first part of a series of HTML files containing maps that visualize the scores of voting bureaus.",
+    "name": "Voting Bureaus Score Map - Part 0",
+    "id": 10
+  },
+  {
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/plot.scores.bureaux.page.part.1.html",
+    "format": "html",
+    "type": "map",
+    "description": "This is the second part of a series of HTML files containing maps that visualize the scores of voting bureaus.",
+    "name": "Voting Bureaus Score Map - Part 1",
+    "id": 11
+  },
+  {
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/plot.scores.bureaux.page.part.2.html",
+    "format": "html",
+    "type": "map",
+    "description": "This is the second part of a series of HTML files containing maps that visualize the scores of voting bureaus.",
+    "name": "Voting Bureaus Score Map - Part 2",
+    "id": 12
+  },
+  {
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/plot.scores.bureaux.page.part.3.html",
+    "format": "html",
+    "type": "map",
+    "description": "This is the second part of a series of HTML files containing maps that visualize the scores of voting bureaus.",
+    "name": "Voting Bureaus Score Map - Part 3",
+    "id": 13
+  },
+  {
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/plot.scores.bureaux.page.part.4.html",
+    "format": "html",
+    "type": "map",
+    "description": "This is the second part of a series of HTML files containing maps that visualize the scores of voting bureaus.",
+    "name": "Voting Bureaus Score Map - Part 4",
+    "id": 14
+  },
+  {
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/plot.scores.bureaux.page.part.5.html",
+    "format": "html",
+    "type": "map",
+    "description": "This is the second part of a series of HTML files containing maps that visualize the scores of voting bureaus.",
+    "name": "Voting Bureaus Score Map - Part 5",
+    "id": 15
+  },
+  {
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/plot.scores.bureaux.page.part.6.html",
+    "format": "html",
+    "type": "map",
+    "description": "This is the second part of a series of HTML files containing maps that visualize the scores of voting bureaus.",
+    "name": "Voting Bureaus Score Map - Part 6",
+    "id": 16
+  },
+  {
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/plot.scores.bureaux.page.part.7.html",
+    "format": "html",
+    "type": "map",
+    "description": "This is the second part of a series of HTML files containing maps that visualize the scores of voting bureaus.",
+    "name": "Voting Bureaus Score Map - Part 7",
+    "id": 17
+  },
+  {
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/plot.scores.bureaux.page.part.8.html",
+    "format": "html",
+    "type": "map",
+    "description": "This is the second part of a series of HTML files containing maps that visualize the scores of voting bureaus.",
+    "name": "Voting Bureaus Score Map - Part 8",
+    "id": 18
+  },
+  {
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/plot.scores.bureaux.page.part.9.html",
+    "format": "html",
+    "type": "map",
+    "description": "This is the second part of a series of HTML files containing maps that visualize the scores of voting bureaus.",
+    "name": "Voting Bureaus Score Map - Part 9",
+    "id": 19
+  },
+  {
+    "url": "https://github.com/arnos-stuff/bureaux-vote-postgis/releases/download/v0.0.3/plot.scoring.metadata.table.json",
+    "format": "geojson",
+    "type": "data",
+    "description": "This is a geojson file containing metadata for the scoring plot of voting bureaus.",
+    "name": "Metadata for Scoring Plot of Voting Bureaus",
+    "id": 20
+  },
+  {
+    "url": "https://github.com/arnos-stuff/bureaux-vote-postgis/releases/download/v0.0.3/bureaux-vote-geom.metadata.total.geojson.zip",
+    "format": "geojson",
+    "type": "data",
+    "description": "This is a geojson file containing the total metadata for the geometry of voting bureaus.",
+    "name": "Total Metadata for Voting Bureaus Geometry",
+    "id": 21
+  },
+  {
+    "url": "https://github.com/volt-france/bureaux-vote",
+    "format": "html",
+    "type": "code",
+    "description": "This is a GitHub repository for the 'Volt Data Bureaux de Vote' project. The project is a Quasar SPA designed to make the comparison of French polling stations easier.",
+    "name": "Volt Data Bureaux de Vote Project Repository",
+    "id": 22
+  }
+]

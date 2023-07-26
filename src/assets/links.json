@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Home",
+    "caption": "volt-france.web.app",
+    "icon": "home",
+    "link": "/"
+  },
+  {
+    "title": "Github",
+    "caption": "github.com/volt-france",
+    "icon": "code",
+    "link": "https://github.com/volt-france"
+  },
+  {
+    "title": "Discord Chat Channel",
+    "caption": "discord.gg/volteuropa",
+    "icon": "chat",
+    "link": "https://discord.gg/volteuropa"
+  },
+  {
+    "title": "Forum",
+    "caption": "forum.volt.dev",
+    "icon": "record_voice_over",
+    "link": "https://forum.volt.dev"
+  },
+  {
+    "title": "Twitter",
+    "caption": "@arno_shae",
+    "icon": "rss_feed",
+    "link": "https://twitter.com/arno_shae"
+  },
+  {
+    "title": "Website",
+    "caption": "volteuropa.org",
+    "icon": "public",
+    "link": "https://volteuropa.org"
+  }
+]
