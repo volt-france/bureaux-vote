@@ -16,7 +16,7 @@ const routes: RouteRecordRaw[] = [
       },
       {
         path: '/table',
-        component: () => import('layouts/TableLayout.vue'),
+        component: () => import('layouts/BaseLayout.vue'),
       },
       {
         component: PlotlyMapVue,

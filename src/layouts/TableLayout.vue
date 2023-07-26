@@ -47,46 +47,40 @@ import EssentialLink, {
 
 const essentialLinks: EssentialLinkProps[] = [
   {
-    title: 'Docs',
-    caption: 'quasar.dev',
-    icon: 'school',
-    link: 'https://quasar.dev',
+    title: 'Home',
+    caption: 'volt-france.github.io/bureaux-vote',
+    icon: 'home',
+    link: '/',
   },
   {
     title: 'Github',
-    caption: 'github.com/quasarframework',
+    caption: 'github.com/volt-france',
     icon: 'code',
-    link: 'https://github.com/quasarframework',
+    link: 'https://github.com/volt-france',
   },
   {
     title: 'Discord Chat Channel',
-    caption: 'chat.quasar.dev',
+    caption: 'chat.volt.dev',
     icon: 'chat',
-    link: 'https://chat.quasar.dev',
+    link: 'https://chat.volt.dev',
   },
   {
     title: 'Forum',
-    caption: 'forum.quasar.dev',
+    caption: 'forum.volt.dev',
     icon: 'record_voice_over',
-    link: 'https://forum.quasar.dev',
+    link: 'https://forum.volt.dev',
   },
   {
     title: 'Twitter',
-    caption: '@quasarframework',
+    caption: '@arno_shae',
     icon: 'rss_feed',
-    link: 'https://twitter.quasar.dev',
+    link: 'https://twitter/arno_shae',
   },
   {
-    title: 'Facebook',
-    caption: '@QuasarFramework',
+    title: 'Website',
+    caption: 'volteuropa.org',
     icon: 'public',
-    link: 'https://facebook.quasar.dev',
-  },
-  {
-    title: 'Quasar Awesome',
-    caption: 'Community Quasar projects',
-    icon: 'favorite',
-    link: 'https://awesome.quasar.dev',
+    link: 'https://volteuropa.org',
   },
 ];
 </script>

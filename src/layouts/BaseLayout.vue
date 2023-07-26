@@ -47,7 +47,7 @@ const essentialLinks: EssentialLinkProps[] = [
   },
   {
     title: 'Github',
-    caption: 'github.com/quasarframework',
+    caption: 'github.com/volt-france',
     icon: 'code',
     link: 'https://github.com/volt-france',
   },
