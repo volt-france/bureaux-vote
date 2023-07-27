@@ -1,17 +1,6 @@
 <template>
   <q-layout view="lHh Lpr lFf" id="vanta-bg-canvas">
     <MainHeader></MainHeader>
-    <q-drawer v-model="leftDrawerOpen" show-if-above bordered>
-      <q-list>
-        <q-item-label header> Essential Links </q-item-label>
-
-        <EssentialLink
-          v-for="link in essentialLinks"
-          :key="link.title"
-          v-bind="link"
-        />
-      </q-list>
-    </q-drawer>
     <q-page-container> </q-page-container>
     <q-page-container>
       <router-view />
@@ -27,7 +16,7 @@ VANTA.NET({
   minHeight: 500.0,
   minWidth: 200.0,
   scale: 1.0,
-  scaleMobile: 1.0,
+  scaleMobile: 1.2,
 });
 </script>
 <script setup lang="ts">

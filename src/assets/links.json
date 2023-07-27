@@ -3,7 +3,7 @@
     "title": "Home",
     "caption": "volt-france.web.app",
     "icon": "home",
-    "link": "/"
+    "link": "#"
   },
   {
     "title": "Github",

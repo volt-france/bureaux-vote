@@ -39,6 +39,11 @@
 .my-card
   width: 100%
   max-width: 25vw
+
+@media (max-width: $breakpoint-xs-max)
+.my-card
+  width: 100%
+  max-width: 90vw
 </style>
 
 <script setup lang="ts">

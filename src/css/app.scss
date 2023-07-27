@@ -3,6 +3,8 @@ html,
 body {
   margin: 0;
   height: 100%;
+  padding: 0%;
+  background-color: $primary;
 }
 
 #fullpage-table {
@@ -11,4 +13,68 @@ body {
   padding-right: 3%;
   padding-bottom: 3%;
   margin-bottom: 3%;
+}
+
+@media (max-width: $breakpoint-xs-max) {
+  .q-page-container {
+    height: 85%;
+    padding-top: 5px;
+    margin-top: -1px;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+  }
+
+  #vanta-bg-canvas {
+    height: max-content;
+  }
+
+  .column,
+  * {
+    align-content: space-between;
+  }
+
+  .my-card {
+    width: 90vw;
+    max-height: fit-content;
+    box-sizing: border-box;
+  }
+  .my-card > * {
+    box-sizing: border-box;
+  }
+  h1,
+  h2,
+  .text-h1,
+  .text-h2 {
+    font-size: 4vh;
+  }
+  h3,
+  h4,
+  .text-h3,
+  .text-h4 {
+    font-size: 3.5vh;
+  }
+  h5,
+  h6,
+  .text-h5,
+  .text-h6 {
+    font-size: 2.5vh;
+  }
+  p,
+  .q-pt-none {
+    font-size: 2vh;
+  }
+
+  .text-subtitle {
+    font-size: 2.1vh;
+  }
+
+  .q-card-section > * {
+    padding: 0;
+    margin: 0;
+  }
+
+  .q-card-actions {
+    size: 1em;
+  }
 }

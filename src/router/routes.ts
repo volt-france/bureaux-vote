@@ -15,6 +15,13 @@ const routes: RouteRecordRaw[] = [
         ]
       },
       {
+        path: '/mob/map',
+        component: () => import('layouts/CardsLayoutMobile.vue'),
+        children: [
+
+        ]
+      },
+      {
         component: PlotlyMapVue,
         path: '/map/:chunkNumber',
         props: route => ({
