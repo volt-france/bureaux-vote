@@ -5,27 +5,73 @@
         flat
         dense
         round
-        icon="menu"
+        icon="arrow_back_ios"
         aria-label="Menu"
         @click="toggleLeftDrawer"
       />
-      <a href="#"
-        ><q-avatar>
+      <q-btn color="primary" flat dense round>
+        <q-avatar size="3vw" style="margin: 15%">
           <img src="../assets/volt-stats-logo/volt-stats.svg" />
         </q-avatar>
-      </a>
+        <q-menu>
+          <q-list style="min-width: 100px">
+            <q-item clickable v-close-popup @click="$router.replace('/')">
+              <q-item-section>Home</q-item-section>
+            </q-item>
+            <q-item clickable v-close-popup @click="$router.replace('/table')">
+              <q-item-section>Table</q-item-section>
+            </q-item>
+            <q-separator />
+            <q-item clickable v-close-popup @click="$router.replace('/map')">
+              <q-item-section>Map</q-item-section>
+            </q-item>
+            <q-item
+              clickable
+              v-close-popup
+              @click="$router.replace('/github-redirect')"
+            >
+              <q-item-section>Github</q-item-section>
+            </q-item>
+            <q-item
+              clickable
+              v-close-popup
+              @click="$router.replace('/downloads')"
+            >
+              <q-item-section>Downloads</q-item-section>
+            </q-item>
+            <q-separator />
+            <q-item
+              clickable
+              v-close-popup
+              @click="$router.replace('/volt-redirect')"
+            >
+              <q-item-section>Website</q-item-section>
+            </q-item>
+            <q-separator />
+            <q-item
+              clickable
+              v-close-popup
+              @click="$router.replace('/twitter-redirect')"
+            >
+              <q-item-section>Author's Twitter</q-item-section>
+            </q-item>
+            <q-item
+              clickable
+              v-close-popup
+              @click="$router.replace('/discord-redirect')"
+            >
+              <q-item-section>Volt Discord</q-item-section>
+            </q-item>
+          </q-list>
+        </q-menu>
+      </q-btn>
       <q-toolbar-title>
         {{ windowSize <= 650 ? '' : 'Volt Data FR' }}
       </q-toolbar-title>
 
       <q-tabs no-caps bg-indigo text-white>
         <q-route-tab to="/table" label="Table" icon="rocket" />
-        <div v-if="mobile">
-          <q-route-tab to="/mob/map" label="Map" icon="map" />
-        </div>
-        <v-else>
-          <q-route-tab to="/map" label="Map" icon="map" />
-        </v-else>
+        <q-route-tab to="/map" label="Map" icon="map" />
         <q-route-tab to="/downloads" label="Downloads" icon="download" />
       </q-tabs>
     </q-toolbar>

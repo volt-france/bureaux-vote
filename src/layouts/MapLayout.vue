@@ -12,9 +12,7 @@
         />
       </q-list>
     </q-drawer>
-    <q-page-container>
-      <PlotlyMap chunkNumber="{{ mapNumber }}" />
-    </q-page-container>
+    <q-page-container> </q-page-container>
     <q-page-container>
       <router-view />
     </q-page-container>
@@ -41,8 +39,6 @@ import EssentialLink, {
 var props = defineProps(['chunkNumber']);
 
 import MainHeader from 'components/MainHeader.vue';
-import PlotlyMap from 'components/PlotlyMap.vue';
-
 const mapNumber = ref(props.chunkNumber);
 
 import LocalLinks from '../assets/links.json';
