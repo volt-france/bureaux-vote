@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "img": "https://storage.googleapis.com/public.data.v.olt.sh/visuals/any/geo/fr/region-level.svg",
+    "title": "Regional Maps",
+    "subtitle": "The average score in each region.",
+    "description": "This map is a way for you to have a broad feeling of which major french region is most compatible. It further includes statistical breakdowns within regions.",
+    "zone": "region",
+    "status": false
+  },
+  {
+    "id": 1,
+    "img": "https://storage.googleapis.com/public.data.v.olt.sh/visuals/any/geo/fr/departement-level.svg",
+    "title": "Departement level maps",
+    "subtitle": "Zooming onto departement breakdown withing Regions",
+    "description": "The within Region variance can be pretty high, as such it is not always informative to only look at the Region-level data.",
+    "zone": "departement",
+    "status": false
+  },
+  {
+    "id": 2,
+    "img": "https://storage.googleapis.com/public.data.v.olt.sh/visuals/any/geo/fr/commune-level.svg",
+    "title": "Commune level data",
+    "subtitle": "A more narrow assessment of Volt compatibility",
+    "description": "This is much more precise than Region and Departement wide maps, but this still shrouds major differences across neighborhoods.",
+    "zone": "communes",
+    "status": true
+  },
+  {
+    "id": 3,
+    "img": "https://storage.googleapis.com/public.data.v.olt.sh/visuals/any/geo/fr/polling-level.svg",
+    "title": "Per polling station breakdown",
+    "subtitle": "The most fine-grained analysis",
+    "description": "Leveraging almost never used before geometric contours of polling stations, we were able to make approximate maps at the polling station level.",
+    "zone": "poll",
+    "status": false
+  }
+]

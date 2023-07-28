@@ -18,6 +18,10 @@ const routes: RouteRecordRaw[] = [
     component: () => import('layouts/CardsLayout.vue'),
   },
   {
+    path: '/locality',
+    component: () => import('layouts/LocalityLayout.vue'),
+  },
+  {
     path: '/downloads',
     component: () => import('layouts/DownloadLayout.vue'),
   },

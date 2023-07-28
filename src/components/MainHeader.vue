@@ -25,6 +25,7 @@
             <q-item clickable v-close-popup @click="$router.replace('/')">
               <q-item-section>Home</q-item-section>
             </q-item>
+            <q-separator />
             <q-item clickable v-close-popup @click="$router.replace('/table')">
               <q-item-section>Table</q-item-section>
             </q-item>
@@ -32,6 +33,15 @@
             <q-item clickable v-close-popup @click="$router.replace('/map')">
               <q-item-section>Map</q-item-section>
             </q-item>
+            <q-separator />
+            <q-item
+              clickable
+              v-close-popup
+              @click="$router.replace('/locality')"
+            >
+              <q-item-section>Zone-specific Maps</q-item-section>
+            </q-item>
+            <q-separator />
             <q-item
               clickable
               v-close-popup
@@ -39,6 +49,7 @@
             >
               <q-item-section>Github</q-item-section>
             </q-item>
+            <q-separator />
             <q-item
               clickable
               v-close-popup
@@ -79,6 +90,7 @@
       <q-tabs no-caps bg-indigo text-white>
         <q-route-tab to="/table" label="Table" icon="rocket" />
         <q-route-tab to="/map" label="Map" icon="map" />
+        <q-route-tab to="/locality" label="Zones" icon="center_focus_weak" />
         <q-route-tab to="/downloads" label="Downloads" icon="download" />
       </q-tabs>
     </q-toolbar>
