@@ -10,7 +10,14 @@
         @click="toggleLeftDrawer"
       />
       <q-btn color="primary" flat dense round>
-        <q-avatar size="3vw" style="margin: 15%">
+        <q-avatar
+          :size="
+            windowSize <= 640
+              ? '60px'
+              : `${Math.max(windowSize * 0.03, 60 + windowSize * 0.02)}px`
+          "
+          style="margin: 15%"
+        >
           <img src="../assets/volt-stats-logo/volt-stats.svg" />
         </q-avatar>
         <q-menu>
