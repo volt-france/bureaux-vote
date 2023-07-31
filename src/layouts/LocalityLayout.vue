@@ -18,6 +18,7 @@ import MainHeader from '../components/MainHeader.vue';
 import { ref, onMounted, onUnmounted } from 'vue';
 
 const windowSize = ref(window.innerWidth);
+
 onMounted(() => {
   window.addEventListener('resize', () => {
     windowSize.value = window.innerWidth;

@@ -14,8 +14,8 @@
     "title": "Departement level maps",
     "subtitle": "Zooming onto departement breakdown withing Regions",
     "description": "The within Region variance can be pretty high, as such it is not always informative to only look at the Region-level data.",
-    "zone": "departement",
-    "status": false
+    "zone": "departements",
+    "status": true
   },
   {
     "id": 2,

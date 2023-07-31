@@ -36,9 +36,10 @@
       <q-card-actions align="center">
         <q-btn
           color="purple"
+          class="card-button-center"
           rounded="true"
           size="120%"
-          :href="`${getPlotStorage(locale.zone)}`"
+          :href="`${getPlotUrl(locale.zone)}`"
         >
           Check out the map</q-btn
         >
@@ -63,9 +64,10 @@
   width: 100%
   max-width: 90vw
 
-.status-badge-link
-  width: 60%
-  height: 10vh
+@media (max-width: $breakpoint-xs-max)
+  .status-badge-link
+    width: 60%
+    height: 10vh
 </style>
 
 <script setup lang="ts">
@@ -73,5 +75,8 @@ import Localities from '../assets/locality.json';
 
 function getPlotStorage(locale: string) {
   return `https://storage.googleapis.com/public.data.v.olt.sh/maps/html/${locale}.score.volt.map.html`;
+}
+function getPlotUrl(zone: string) {
+  return `https://bureaux-vote.v.olt.sh/#/map/z/${zone}`;
 }
 </script>

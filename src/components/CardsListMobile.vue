@@ -1,5 +1,5 @@
 <template>
-  <div class="q-pa-lg column items-center">
+  <div class="q-pa-lg column items-center" style="padding: 3%; margin: 3%">
     <div class="row" v-for="card in Cards" v-bind:key="card.id">
       <q-card class="my-card">
         <img
@@ -14,7 +14,7 @@
           <div class="text-subtitle">{{ card.subtitle }}</div>
         </q-card-section>
 
-        <q-card-section class="q-pt-none">
+        <q-card-section class="q-pt-none" style="font-size: x-small !important">
           {{ card.description }}
         </q-card-section>
 

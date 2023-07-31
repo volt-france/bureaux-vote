@@ -1,0 +1,26 @@
+#!/bin/python3
+import json
+from pathlib import Path
+
+httpRoot="https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/"
+relRoot="https://bureaux-vote.v.olt.sh/#/map/z/dept/"
+
+files = Path(__file__).parent.rglob('src/assets/departements/*.webp')
+files = list(files)
+rowDepts = []
+for f in files:
+  dept = f.name.replace('-d-', '-d')
+  fn = f.name.replace('-d-', '-d')
+  png = f.name.replace('.webp', '.png')
+  rowDepts += [{
+    'id': dept,
+    'url': f'{httpRoot}{dept}.zoomed.score.map.html',
+    'file':f'departements/{fn}',
+    'small':f'departements/small/{png}',
+    'relUrl': f'{relRoot}{dept}'
+    }]
+
+
+outPath = Path("src/assets/departements.json")
+
+outPath.write_text(json.dumps(rowDepts, indent=4))

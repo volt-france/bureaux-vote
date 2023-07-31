@@ -1,4 +1,8 @@
 
+declare interface SiteRoot {
+  url: string
+}
+
 declare interface PlotlyJSON {
   data: PlotlyData;
   layout: PlotlyLayout;

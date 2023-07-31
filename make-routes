@@ -1,0 +1,24 @@
+#!/bin/python3
+
+import json
+from pathlib import Path
+
+jsonPath = Path("src/assets/departements.json")
+
+departements = json.loads(jsonPath.read_text())
+
+def fmtTypeScript(row: dict) -> str:
+    return "{\n" + \
+    "path:" + f""" \'/map/z/dept/{row['id']}\',\n""" + \
+    "component: () => import('layouts/MapLayout.vue')" + \
+    "\n}\n"
+
+routes = '\ndeclare type routeData = Array<routeRow>;\n'
+routes += 'declare interface routeRow {\n\tpath:string,\n\tcomponent: function\n};\n'
+routes += 'const routesStaticDefs: routeData = '
+routes += '[\n' + ',\n'.join([
+    fmtTypeScript(row) for row in departements
+]) + '\n]'
+
+
+Path("src/routes.d.ts").write_text(routes)

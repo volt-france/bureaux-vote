@@ -13,7 +13,7 @@
         style="width: 30vw; height: 10vh"
       >
         <q-btn
-          class="q-mt-xl fit row"
+          class="q-mt-xl fit row welcome-button"
           rounded
           glossy
           icon="map"
@@ -26,9 +26,10 @@
         />
         <p></p>
         <q-btn
-          class="q-mt-xl fit row"
+          class="q-mt-xl fit row welcome-button"
           rounded
           glossy
+          padding="10"
           icon="table_view"
           color="white"
           text-color="purple"
@@ -38,7 +39,7 @@
           no-caps
         />
         <q-btn
-          class="q-mt-xl fit row"
+          class="q-mt-xl fit row welcome-button"
           rounded
           glossy
           icon="center_focus_weak"
@@ -89,9 +90,10 @@ VANTA.NET({
   mouseControls: true,
   touchControls: true,
   gyroControls: false,
-  minHeight: 2500,
+  minHeight: 500.0,
   minWidth: 200.0,
-  scale: 1.5,
+  scale: 1.0,
   scaleMobile: 1.2,
+  points: 7.0,
 });
 </script>

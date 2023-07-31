@@ -1,0 +1,709 @@
+[
+  {
+    "id": "ain.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/ain.webp.zoomed.score.map.html",
+    "file": "departements/ain.webp",
+    "small": "departements/small/ain.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/ain.webp"
+  },
+  {
+    "id": "aisne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/aisne.webp.zoomed.score.map.html",
+    "file": "departements/aisne.webp",
+    "small": "departements/small/aisne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/aisne.webp"
+  },
+  {
+    "id": "allier.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/allier.webp.zoomed.score.map.html",
+    "file": "departements/allier.webp",
+    "small": "departements/small/allier.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/allier.webp"
+  },
+  {
+    "id": "alpes-de-haute-provence.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/alpes-de-haute-provence.webp.zoomed.score.map.html",
+    "file": "departements/alpes-de-haute-provence.webp",
+    "small": "departements/small/alpes-de-haute-provence.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/alpes-de-haute-provence.webp"
+  },
+  {
+    "id": "alpes-maritimes.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/alpes-maritimes.webp.zoomed.score.map.html",
+    "file": "departements/alpes-maritimes.webp",
+    "small": "departements/small/alpes-maritimes.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/alpes-maritimes.webp"
+  },
+  {
+    "id": "ardeche.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/ardeche.webp.zoomed.score.map.html",
+    "file": "departements/ardeche.webp",
+    "small": "departements/small/ardeche.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/ardeche.webp"
+  },
+  {
+    "id": "ardennes.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/ardennes.webp.zoomed.score.map.html",
+    "file": "departements/ardennes.webp",
+    "small": "departements/small/ardennes.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/ardennes.webp"
+  },
+  {
+    "id": "ariege.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/ariege.webp.zoomed.score.map.html",
+    "file": "departements/ariege.webp",
+    "small": "departements/small/ariege.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/ariege.webp"
+  },
+  {
+    "id": "aube.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/aube.webp.zoomed.score.map.html",
+    "file": "departements/aube.webp",
+    "small": "departements/small/aube.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/aube.webp"
+  },
+  {
+    "id": "aude.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/aude.webp.zoomed.score.map.html",
+    "file": "departements/aude.webp",
+    "small": "departements/small/aude.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/aude.webp"
+  },
+  {
+    "id": "aveyron.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/aveyron.webp.zoomed.score.map.html",
+    "file": "departements/aveyron.webp",
+    "small": "departements/small/aveyron.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/aveyron.webp"
+  },
+  {
+    "id": "bas-rhin.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/bas-rhin.webp.zoomed.score.map.html",
+    "file": "departements/bas-rhin.webp",
+    "small": "departements/small/bas-rhin.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/bas-rhin.webp"
+  },
+  {
+    "id": "bouches-du-rhone.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/bouches-du-rhone.webp.zoomed.score.map.html",
+    "file": "departements/bouches-du-rhone.webp",
+    "small": "departements/small/bouches-du-rhone.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/bouches-du-rhone.webp"
+  },
+  {
+    "id": "calvados.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/calvados.webp.zoomed.score.map.html",
+    "file": "departements/calvados.webp",
+    "small": "departements/small/calvados.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/calvados.webp"
+  },
+  {
+    "id": "cantal.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/cantal.webp.zoomed.score.map.html",
+    "file": "departements/cantal.webp",
+    "small": "departements/small/cantal.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/cantal.webp"
+  },
+  {
+    "id": "charente-maritime.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/charente-maritime.webp.zoomed.score.map.html",
+    "file": "departements/charente-maritime.webp",
+    "small": "departements/small/charente-maritime.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/charente-maritime.webp"
+  },
+  {
+    "id": "charente.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/charente.webp.zoomed.score.map.html",
+    "file": "departements/charente.webp",
+    "small": "departements/small/charente.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/charente.webp"
+  },
+  {
+    "id": "cher.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/cher.webp.zoomed.score.map.html",
+    "file": "departements/cher.webp",
+    "small": "departements/small/cher.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/cher.webp"
+  },
+  {
+    "id": "correze.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/correze.webp.zoomed.score.map.html",
+    "file": "departements/correze.webp",
+    "small": "departements/small/correze.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/correze.webp"
+  },
+  {
+    "id": "corse-du-sud.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/corse-du-sud.webp.zoomed.score.map.html",
+    "file": "departements/corse-du-sud.webp",
+    "small": "departements/small/corse-du-sud.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/corse-du-sud.webp"
+  },
+  {
+    "id": "cote-dor.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/cote-dor.webp.zoomed.score.map.html",
+    "file": "departements/cote-dor.webp",
+    "small": "departements/small/cote-d-or.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/cote-dor.webp"
+  },
+  {
+    "id": "cotes-darmor.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/cotes-darmor.webp.zoomed.score.map.html",
+    "file": "departements/cotes-darmor.webp",
+    "small": "departements/small/cotes-d-armor.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/cotes-darmor.webp"
+  },
+  {
+    "id": "creuse.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/creuse.webp.zoomed.score.map.html",
+    "file": "departements/creuse.webp",
+    "small": "departements/small/creuse.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/creuse.webp"
+  },
+  {
+    "id": "deux-sevres.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/deux-sevres.webp.zoomed.score.map.html",
+    "file": "departements/deux-sevres.webp",
+    "small": "departements/small/deux-sevres.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/deux-sevres.webp"
+  },
+  {
+    "id": "dordogne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/dordogne.webp.zoomed.score.map.html",
+    "file": "departements/dordogne.webp",
+    "small": "departements/small/dordogne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/dordogne.webp"
+  },
+  {
+    "id": "doubs.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/doubs.webp.zoomed.score.map.html",
+    "file": "departements/doubs.webp",
+    "small": "departements/small/doubs.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/doubs.webp"
+  },
+  {
+    "id": "drome.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/drome.webp.zoomed.score.map.html",
+    "file": "departements/drome.webp",
+    "small": "departements/small/drome.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/drome.webp"
+  },
+  {
+    "id": "essonne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/essonne.webp.zoomed.score.map.html",
+    "file": "departements/essonne.webp",
+    "small": "departements/small/essonne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/essonne.webp"
+  },
+  {
+    "id": "eure-et-loir.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/eure-et-loir.webp.zoomed.score.map.html",
+    "file": "departements/eure-et-loir.webp",
+    "small": "departements/small/eure-et-loir.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/eure-et-loir.webp"
+  },
+  {
+    "id": "eure.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/eure.webp.zoomed.score.map.html",
+    "file": "departements/eure.webp",
+    "small": "departements/small/eure.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/eure.webp"
+  },
+  {
+    "id": "finistere.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/finistere.webp.zoomed.score.map.html",
+    "file": "departements/finistere.webp",
+    "small": "departements/small/finistere.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/finistere.webp"
+  },
+  {
+    "id": "gard.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/gard.webp.zoomed.score.map.html",
+    "file": "departements/gard.webp",
+    "small": "departements/small/gard.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/gard.webp"
+  },
+  {
+    "id": "gers.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/gers.webp.zoomed.score.map.html",
+    "file": "departements/gers.webp",
+    "small": "departements/small/gers.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/gers.webp"
+  },
+  {
+    "id": "gironde.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/gironde.webp.zoomed.score.map.html",
+    "file": "departements/gironde.webp",
+    "small": "departements/small/gironde.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/gironde.webp"
+  },
+  {
+    "id": "guadeloupe.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/guadeloupe.webp.zoomed.score.map.html",
+    "file": "departements/guadeloupe.webp",
+    "small": "departements/small/guadeloupe.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/guadeloupe.webp"
+  },
+  {
+    "id": "guyane.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/guyane.webp.zoomed.score.map.html",
+    "file": "departements/guyane.webp",
+    "small": "departements/small/guyane.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/guyane.webp"
+  },
+  {
+    "id": "haut-rhin.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/haut-rhin.webp.zoomed.score.map.html",
+    "file": "departements/haut-rhin.webp",
+    "small": "departements/small/haut-rhin.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/haut-rhin.webp"
+  },
+  {
+    "id": "haute-corse.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/haute-corse.webp.zoomed.score.map.html",
+    "file": "departements/haute-corse.webp",
+    "small": "departements/small/haute-corse.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/haute-corse.webp"
+  },
+  {
+    "id": "haute-garonne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/haute-garonne.webp.zoomed.score.map.html",
+    "file": "departements/haute-garonne.webp",
+    "small": "departements/small/haute-garonne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/haute-garonne.webp"
+  },
+  {
+    "id": "haute-loire.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/haute-loire.webp.zoomed.score.map.html",
+    "file": "departements/haute-loire.webp",
+    "small": "departements/small/haute-loire.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/haute-loire.webp"
+  },
+  {
+    "id": "haute-marne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/haute-marne.webp.zoomed.score.map.html",
+    "file": "departements/haute-marne.webp",
+    "small": "departements/small/haute-marne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/haute-marne.webp"
+  },
+  {
+    "id": "haute-saone.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/haute-saone.webp.zoomed.score.map.html",
+    "file": "departements/haute-saone.webp",
+    "small": "departements/small/haute-saone.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/haute-saone.webp"
+  },
+  {
+    "id": "haute-savoie.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/haute-savoie.webp.zoomed.score.map.html",
+    "file": "departements/haute-savoie.webp",
+    "small": "departements/small/haute-savoie.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/haute-savoie.webp"
+  },
+  {
+    "id": "haute-vienne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/haute-vienne.webp.zoomed.score.map.html",
+    "file": "departements/haute-vienne.webp",
+    "small": "departements/small/haute-vienne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/haute-vienne.webp"
+  },
+  {
+    "id": "hautes-alpes.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/hautes-alpes.webp.zoomed.score.map.html",
+    "file": "departements/hautes-alpes.webp",
+    "small": "departements/small/hautes-alpes.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/hautes-alpes.webp"
+  },
+  {
+    "id": "hautes-pyrenees.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/hautes-pyrenees.webp.zoomed.score.map.html",
+    "file": "departements/hautes-pyrenees.webp",
+    "small": "departements/small/hautes-pyrenees.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/hautes-pyrenees.webp"
+  },
+  {
+    "id": "hauts-de-seine.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/hauts-de-seine.webp.zoomed.score.map.html",
+    "file": "departements/hauts-de-seine.webp",
+    "small": "departements/small/hauts-de-seine.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/hauts-de-seine.webp"
+  },
+  {
+    "id": "herault.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/herault.webp.zoomed.score.map.html",
+    "file": "departements/herault.webp",
+    "small": "departements/small/herault.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/herault.webp"
+  },
+  {
+    "id": "ille-et-vilaine.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/ille-et-vilaine.webp.zoomed.score.map.html",
+    "file": "departements/ille-et-vilaine.webp",
+    "small": "departements/small/ille-et-vilaine.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/ille-et-vilaine.webp"
+  },
+  {
+    "id": "indre-et-loire.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/indre-et-loire.webp.zoomed.score.map.html",
+    "file": "departements/indre-et-loire.webp",
+    "small": "departements/small/indre-et-loire.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/indre-et-loire.webp"
+  },
+  {
+    "id": "indre.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/indre.webp.zoomed.score.map.html",
+    "file": "departements/indre.webp",
+    "small": "departements/small/indre.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/indre.webp"
+  },
+  {
+    "id": "isere.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/isere.webp.zoomed.score.map.html",
+    "file": "departements/isere.webp",
+    "small": "departements/small/isere.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/isere.webp"
+  },
+  {
+    "id": "jura.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/jura.webp.zoomed.score.map.html",
+    "file": "departements/jura.webp",
+    "small": "departements/small/jura.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/jura.webp"
+  },
+  {
+    "id": "la-reunion.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/la-reunion.webp.zoomed.score.map.html",
+    "file": "departements/la-reunion.webp",
+    "small": "departements/small/la-reunion.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/la-reunion.webp"
+  },
+  {
+    "id": "landes.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/landes.webp.zoomed.score.map.html",
+    "file": "departements/landes.webp",
+    "small": "departements/small/landes.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/landes.webp"
+  },
+  {
+    "id": "loir-et-cher.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/loir-et-cher.webp.zoomed.score.map.html",
+    "file": "departements/loir-et-cher.webp",
+    "small": "departements/small/loir-et-cher.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/loir-et-cher.webp"
+  },
+  {
+    "id": "loire-atlantique.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/loire-atlantique.webp.zoomed.score.map.html",
+    "file": "departements/loire-atlantique.webp",
+    "small": "departements/small/loire-atlantique.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/loire-atlantique.webp"
+  },
+  {
+    "id": "loire.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/loire.webp.zoomed.score.map.html",
+    "file": "departements/loire.webp",
+    "small": "departements/small/loire.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/loire.webp"
+  },
+  {
+    "id": "loiret.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/loiret.webp.zoomed.score.map.html",
+    "file": "departements/loiret.webp",
+    "small": "departements/small/loiret.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/loiret.webp"
+  },
+  {
+    "id": "lot-et-garonne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/lot-et-garonne.webp.zoomed.score.map.html",
+    "file": "departements/lot-et-garonne.webp",
+    "small": "departements/small/lot-et-garonne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/lot-et-garonne.webp"
+  },
+  {
+    "id": "lot.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/lot.webp.zoomed.score.map.html",
+    "file": "departements/lot.webp",
+    "small": "departements/small/lot.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/lot.webp"
+  },
+  {
+    "id": "lozere.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/lozere.webp.zoomed.score.map.html",
+    "file": "departements/lozere.webp",
+    "small": "departements/small/lozere.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/lozere.webp"
+  },
+  {
+    "id": "maine-et-loire.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/maine-et-loire.webp.zoomed.score.map.html",
+    "file": "departements/maine-et-loire.webp",
+    "small": "departements/small/maine-et-loire.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/maine-et-loire.webp"
+  },
+  {
+    "id": "manche.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/manche.webp.zoomed.score.map.html",
+    "file": "departements/manche.webp",
+    "small": "departements/small/manche.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/manche.webp"
+  },
+  {
+    "id": "marne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/marne.webp.zoomed.score.map.html",
+    "file": "departements/marne.webp",
+    "small": "departements/small/marne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/marne.webp"
+  },
+  {
+    "id": "martinique.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/martinique.webp.zoomed.score.map.html",
+    "file": "departements/martinique.webp",
+    "small": "departements/small/martinique.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/martinique.webp"
+  },
+  {
+    "id": "mayenne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/mayenne.webp.zoomed.score.map.html",
+    "file": "departements/mayenne.webp",
+    "small": "departements/small/mayenne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/mayenne.webp"
+  },
+  {
+    "id": "mayotte.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/mayotte.webp.zoomed.score.map.html",
+    "file": "departements/mayotte.webp",
+    "small": "departements/small/mayotte.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/mayotte.webp"
+  },
+  {
+    "id": "meurhe-et-moselle.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/meurhe-et-moselle.webp.zoomed.score.map.html",
+    "file": "departements/meurhe-et-moselle.webp",
+    "small": "departements/small/meurhe-et-moselle.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/meurhe-et-moselle.webp"
+  },
+  {
+    "id": "meuse.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/meuse.webp.zoomed.score.map.html",
+    "file": "departements/meuse.webp",
+    "small": "departements/small/meuse.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/meuse.webp"
+  },
+  {
+    "id": "morbihan.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/morbihan.webp.zoomed.score.map.html",
+    "file": "departements/morbihan.webp",
+    "small": "departements/small/morbihan.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/morbihan.webp"
+  },
+  {
+    "id": "moselle.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/moselle.webp.zoomed.score.map.html",
+    "file": "departements/moselle.webp",
+    "small": "departements/small/moselle.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/moselle.webp"
+  },
+  {
+    "id": "nievre.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/nievre.webp.zoomed.score.map.html",
+    "file": "departements/nievre.webp",
+    "small": "departements/small/nievre.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/nievre.webp"
+  },
+  {
+    "id": "nord.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/nord.webp.zoomed.score.map.html",
+    "file": "departements/nord.webp",
+    "small": "departements/small/nord.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/nord.webp"
+  },
+  {
+    "id": "oise.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/oise.webp.zoomed.score.map.html",
+    "file": "departements/oise.webp",
+    "small": "departements/small/oise.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/oise.webp"
+  },
+  {
+    "id": "orne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/orne.webp.zoomed.score.map.html",
+    "file": "departements/orne.webp",
+    "small": "departements/small/orne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/orne.webp"
+  },
+  {
+    "id": "paris.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/paris.webp.zoomed.score.map.html",
+    "file": "departements/paris.webp",
+    "small": "departements/small/paris.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/paris.webp"
+  },
+  {
+    "id": "pas-de-calais.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/pas-de-calais.webp.zoomed.score.map.html",
+    "file": "departements/pas-de-calais.webp",
+    "small": "departements/small/pas-de-calais.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/pas-de-calais.webp"
+  },
+  {
+    "id": "puy-de-dome.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/puy-de-dome.webp.zoomed.score.map.html",
+    "file": "departements/puy-de-dome.webp",
+    "small": "departements/small/puy-de-dome.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/puy-de-dome.webp"
+  },
+  {
+    "id": "pyrenees-atlantiques.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/pyrenees-atlantiques.webp.zoomed.score.map.html",
+    "file": "departements/pyrenees-atlantiques.webp",
+    "small": "departements/small/pyrenees-atlantiques.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/pyrenees-atlantiques.webp"
+  },
+  {
+    "id": "pyrenees-orientales.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/pyrenees-orientales.webp.zoomed.score.map.html",
+    "file": "departements/pyrenees-orientales.webp",
+    "small": "departements/small/pyrenees-orientales.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/pyrenees-orientales.webp"
+  },
+  {
+    "id": "rhone.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/rhone.webp.zoomed.score.map.html",
+    "file": "departements/rhone.webp",
+    "small": "departements/small/rhone.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/rhone.webp"
+  },
+  {
+    "id": "saone-et-loire.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/saone-et-loire.webp.zoomed.score.map.html",
+    "file": "departements/saone-et-loire.webp",
+    "small": "departements/small/saone-et-loire.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/saone-et-loire.webp"
+  },
+  {
+    "id": "sarthe.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/sarthe.webp.zoomed.score.map.html",
+    "file": "departements/sarthe.webp",
+    "small": "departements/small/sarthe.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/sarthe.webp"
+  },
+  {
+    "id": "savoie.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/savoie.webp.zoomed.score.map.html",
+    "file": "departements/savoie.webp",
+    "small": "departements/small/savoie.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/savoie.webp"
+  },
+  {
+    "id": "seine-et-marne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/seine-et-marne.webp.zoomed.score.map.html",
+    "file": "departements/seine-et-marne.webp",
+    "small": "departements/small/seine-et-marne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/seine-et-marne.webp"
+  },
+  {
+    "id": "seine-maritime.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/seine-maritime.webp.zoomed.score.map.html",
+    "file": "departements/seine-maritime.webp",
+    "small": "departements/small/seine-maritime.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/seine-maritime.webp"
+  },
+  {
+    "id": "seine-saint-denis.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/seine-saint-denis.webp.zoomed.score.map.html",
+    "file": "departements/seine-saint-denis.webp",
+    "small": "departements/small/seine-saint-denis.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/seine-saint-denis.webp"
+  },
+  {
+    "id": "somme.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/somme.webp.zoomed.score.map.html",
+    "file": "departements/somme.webp",
+    "small": "departements/small/somme.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/somme.webp"
+  },
+  {
+    "id": "tarn-et-garonne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/tarn-et-garonne.webp.zoomed.score.map.html",
+    "file": "departements/tarn-et-garonne.webp",
+    "small": "departements/small/tarn-et-garonne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/tarn-et-garonne.webp"
+  },
+  {
+    "id": "tarn.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/tarn.webp.zoomed.score.map.html",
+    "file": "departements/tarn.webp",
+    "small": "departements/small/tarn.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/tarn.webp"
+  },
+  {
+    "id": "territoire-de-belfort.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/territoire-de-belfort.webp.zoomed.score.map.html",
+    "file": "departements/territoire-de-belfort.webp",
+    "small": "departements/small/territoire-de-belfort.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/territoire-de-belfort.webp"
+  },
+  {
+    "id": "val-doise.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/val-doise.webp.zoomed.score.map.html",
+    "file": "departements/val-doise.webp",
+    "small": "departements/small/val-d-oise.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/val-doise.webp"
+  },
+  {
+    "id": "val-de-marne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/val-de-marne.webp.zoomed.score.map.html",
+    "file": "departements/val-de-marne.webp",
+    "small": "departements/small/val-de-marne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/val-de-marne.webp"
+  },
+  {
+    "id": "var.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/var.webp.zoomed.score.map.html",
+    "file": "departements/var.webp",
+    "small": "departements/small/var.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/var.webp"
+  },
+  {
+    "id": "vaucluse.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/vaucluse.webp.zoomed.score.map.html",
+    "file": "departements/vaucluse.webp",
+    "small": "departements/small/vaucluse.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/vaucluse.webp"
+  },
+  {
+    "id": "vendee.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/vendee.webp.zoomed.score.map.html",
+    "file": "departements/vendee.webp",
+    "small": "departements/small/vendee.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/vendee.webp"
+  },
+  {
+    "id": "vienne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/vienne.webp.zoomed.score.map.html",
+    "file": "departements/vienne.webp",
+    "small": "departements/small/vienne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/vienne.webp"
+  },
+  {
+    "id": "vosges.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/vosges.webp.zoomed.score.map.html",
+    "file": "departements/vosges.webp",
+    "small": "departements/small/vosges.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/vosges.webp"
+  },
+  {
+    "id": "yonne.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/yonne.webp.zoomed.score.map.html",
+    "file": "departements/yonne.webp",
+    "small": "departements/small/yonne.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/yonne.webp"
+  },
+  {
+    "id": "yvelines.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/yvelines.webp.zoomed.score.map.html",
+    "file": "departements/yvelines.webp",
+    "small": "departements/small/yvelines.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/yvelines.webp"
+  }
+]
