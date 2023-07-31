@@ -140,20 +140,6 @@
     "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/corse-du-sud.webp"
   },
   {
-    "id": "cote-dor.webp",
-    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/cote-dor.webp.zoomed.score.map.html",
-    "file": "departements/cote-dor.webp",
-    "small": "departements/small/cote-d-or.png",
-    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/cote-dor.webp"
-  },
-  {
-    "id": "cotes-darmor.webp",
-    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/cotes-darmor.webp.zoomed.score.map.html",
-    "file": "departements/cotes-darmor.webp",
-    "small": "departements/small/cotes-d-armor.png",
-    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/cotes-darmor.webp"
-  },
-  {
     "id": "creuse.webp",
     "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/creuse.webp.zoomed.score.map.html",
     "file": "departements/creuse.webp",
@@ -476,13 +462,6 @@
     "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/mayotte.webp"
   },
   {
-    "id": "meurhe-et-moselle.webp",
-    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/meurhe-et-moselle.webp.zoomed.score.map.html",
-    "file": "departements/meurhe-et-moselle.webp",
-    "small": "departements/small/meurhe-et-moselle.png",
-    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/meurhe-et-moselle.webp"
-  },
-  {
     "id": "meuse.webp",
     "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/meuse.webp.zoomed.score.map.html",
     "file": "departements/meuse.webp",
@@ -644,13 +623,6 @@
     "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/territoire-de-belfort.webp"
   },
   {
-    "id": "val-doise.webp",
-    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/val-doise.webp.zoomed.score.map.html",
-    "file": "departements/val-doise.webp",
-    "small": "departements/small/val-d-oise.png",
-    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/val-doise.webp"
-  },
-  {
     "id": "val-de-marne.webp",
     "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/val-de-marne.webp.zoomed.score.map.html",
     "file": "departements/val-de-marne.webp",
@@ -705,5 +677,33 @@
     "file": "departements/yvelines.webp",
     "small": "departements/small/yvelines.png",
     "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/yvelines.webp"
+  },
+  {
+    "id": "cote-dor.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/cote-dor.webp.zoomed.score.map.html",
+    "file": "departements/cote-dor.webp",
+    "small": "departements/small/cote-dor.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/cote-dor.webp"
+  },
+  {
+    "id": "cotes-darmor.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/cotes-darmor.webp.zoomed.score.map.html",
+    "file": "departements/cotes-darmor.webp",
+    "small": "departements/small/cotes-darmor.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/cotes-darmor.webp"
+  },
+  {
+    "id": "val-doise.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/val-doise.webp.zoomed.score.map.html",
+    "file": "departements/val-doise.webp",
+    "small": "departements/small/val-doise.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/val-doise.webp"
+  },
+  {
+    "id": "meurthe-et-moselle.webp",
+    "url": "https://storage.googleapis.com/public.data.v.olt.sh/maps/html/zoom/meurthe-et-moselle.webp.zoomed.score.map.html",
+    "file": "departements/meurthe-et-moselle.webp",
+    "small": "departements/small/meurthe-et-moselle.png",
+    "relUrl": "https://bureaux-vote.v.olt.sh/#/map/z/dept/meurthe-et-moselle.webp"
   }
 ]

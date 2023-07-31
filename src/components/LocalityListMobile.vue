@@ -35,7 +35,7 @@
             color="purple"
             rounded="true"
             size="90%"
-            :href="`${getPlotUrl(locale.zone)}`"
+            :href="`${getPlotStorage(locale.zone)}`"
           >
             Check out the map</q-btn
           >

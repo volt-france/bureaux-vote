@@ -39,7 +39,7 @@
           class="card-button-center"
           rounded="true"
           size="120%"
-          :href="`${getPlotUrl(locale.zone)}`"
+          :href="`${getPlotStorage(locale.zone)}`"
         >
           Check out the map</q-btn
         >

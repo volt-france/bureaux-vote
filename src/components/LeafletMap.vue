@@ -22,9 +22,6 @@ const props = defineProps({
 
 const url = computed(() => {
   const routeID = useRoute().path.split('/').at(-1);
-  if (routeID === 'departements') {
-    return 'https://storage.googleapis.com/public.data.v.olt.sh/maps/html/departements.score.volt.map.html';
-  }
   const row = departementsJSON
     .filter((row) => row.id.toLowerCase() === routeID?.toLowerCase())
     .at(0);

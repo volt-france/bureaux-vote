@@ -12,7 +12,7 @@
     "dev": "quasar dev",
     "build": "NODE_OPTIONS=--max-old-space-size=15096 DEBUG=v8:* quasar build",
     "heroku-postbuild": "pnpm i && NODE_OPTIONS=--max-old-space-size=15096 DEBUG=v8:* pnpm build",
-    "deploy": "push-dir --dir=dist/spa --remote=gh-pages --branch=master"
+    "deploy": "firebase deploy"
   },
   "dependencies": {
     "@quasar/extras": "^1.16.4",
